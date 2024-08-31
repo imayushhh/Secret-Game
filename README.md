@@ -10,11 +10,3 @@ Secrets Submission: Enables users to securely submit and manage their secrets wi
 
 
 
-Technologies Used:
-
-Backend Framework: Express.js
-Database: MongoDB with Mongoose
-Authentication: Passport.js
-Encryption: bcrypt
-OAuth: Google
-Environment Management: dotenv
